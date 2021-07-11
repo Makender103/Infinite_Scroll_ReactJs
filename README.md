@@ -2,7 +2,7 @@
 Clonar o repositorio:
 
 ```
-git clone 
+git clone : https://github.com/Makender103/Infinite_scroll_reactjs
 ```
 
 Instale as dependencias:
